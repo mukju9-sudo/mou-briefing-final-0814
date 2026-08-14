@@ -1,0 +1,30 @@
+name: Daily News Scraping
+
+on:
+  schedule:
+    # 매일 아침 7시 (한국시간 기준, UTC 22시) 자동 실행
+    - cron: '0 22 * * *'
+  workflow_dispatch: # 수동 실행 버튼 활성화
+
+jobs:
+  scrape-and-update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: 저장소 최신 코드 가져오기
+        uses: actions/checkout@v3
+
+      - name: 파이썬(Python) 구동 환경 설정
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+
+      - name: 무료 뉴스 수집 스크립트 가동
+        run: python scripts/generate_scrap.py
+
+      - name: 수집된 데이터를 저장소에 자동 저장 및 Vercel 재배포
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add public/data.json public/scrap.pdf
+          git commit -m "Automated Daily News Scraping Update" || echo "No changes to commit"
+          git push
