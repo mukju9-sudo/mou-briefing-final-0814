@@ -1,3 +1,92 @@
 [
-  { "date": "2026-08-14", "media": "시스템 봇", "summary": "신규 통합 대시보드가 에러 없이 성공적으로 구축되었습니다.", "url": "#" }
+  {
+    "date": "2026-08-14",
+    "media": "VOA 한국어 홈페이지",
+    "summary": "[인터뷰] 와츠 전 UN대북제재위 위원 “북한 제재 회피 급증…전문가패널 공백 커” - VOA 한국어 홈페이지",
+    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFA2NVlVdXVQSWc4NXBPaGRLdHF0bHdQRTFyZ21ELURfSC1lcGlSanNELVp1TmFqeDZyMl9ZSm9NQ1VqcVJPUGpjM2g4dzFNaUZEcVEzZmpoclFLRVhuWE1MVXhoTXhSc2ZBNzh6ZHBqczNDTXd1eVlvczhhdFfSAX9BVV95cUxPWTUyVUJLeDk5QVNZWUM3a0p3d3pJdVU1WjBTWUhqMndpeVByZ1paa3JXaEluMVBtb3BDNV9LU2ZoektmbjVzZERWU0NBeEI2TERkd3ludTZudWZLVkVjRzdheEFNOXdMWGZocUtxVjJiTWZqYVN2N2FPemREQWt3?oc=5"
+  },
+  {
+    "date": "2026-08-14",
+    "media": "연합뉴스",
+    "summary": "북한, 폭염으로 해수욕장과 폭포에 피서객 북적 - 연합뉴스",
+    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9qZDZRRUVhNnJnRTRfX0h3SXJJNHBPZy11UVJ0ZXB3bUNrUUp0c3BtQkVqNDhoc21TTU5RS0FIdEVTY3pKcWd1Wnh3ZmhiVDRKd0xTRGVHTmhnbWQtUWNENNIBYEFVX3lxTE9qZDZRRUVhNnJnRTRfX0h3SXJJNHBPZy11UVJ0ZXB3bUNrUUp0c3BtQkVqNDhoc21TTU5RS0FIdEVTY3pKcWd1Wnh3ZmhiVDRKd0xTRGVHTmhnbWQtUWNENA?oc=5"
+  },
+  {
+    "date": "2026-08-14",
+    "media": "에큐메니안",
+    "summary": "북한에 대한 공식 호칭이 의미하는 것 - 에큐메니안",
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBJcWcxUjZkaXNsSDNlNzVBVEFRSVVlUGJEdXdYY2FucUt4Q2ZybWFIN1NySDQyb3liVGJTZVZOR2JCcXZadDVodGRRdlBvQWN2NmVZYjVfTkhpQ05neDEwSW4xMEx6U3BrLXpB?oc=5"
+  },
+  {
+    "date": "2026-08-14",
+    "media": "KBS 뉴스",
+    "summary": "정부 “한미연합 연습은 방어적 성격”…북한 반발 반박 - KBS 뉴스",
+    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE93U0NiYXhjNzNpX3IxdXJrR3o3U2F5OFM4SEpYR1psQXFCdlZENlNXUF9nN19GaWVlRTQ0ZE1fQ2VTQUtvdTJvdGp5djlrWGV0THAxQ1BIZmdlX3c?oc=5"
+  },
+  {
+    "date": "2026-08-14",
+    "media": "통일뉴스",
+    "summary": "북한의 명물, 개성 고려인삼문화관광지 - 통일뉴스",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5sS0FiRVJVVkMtU3NKWkdVNUlSeHp6dHRRM3h3ZTZFdGFaUWhYZXpLNWVvREhkdS0tRkZyQXVIRVJFblBLS3RFVUgyT0UtQzN2R3dXRkJ4UXNISWhyX0pOMmp4ZGF6bFNGUUQzVQ?oc=5"
+  },
+  {
+    "date": "2026-08-14",
+    "media": "newspim.com",
+    "summary": "김건 의원 \"북한을 조선이라 부르면 '분단 영구화 수용' 잘못된 신호 줘\" - newspim.com",
+    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1SQzJadkxYaTZyTEswa2RGSUNrX1dxcHRyUTZ1ek9QaTdVRktuZWFPY01EN25uaW1DZVY2OWxoRnc2bHFpMEVBTFotMmprdkF3dE1FRno1WUlVNWpp?oc=5"
+  },
+  {
+    "date": "2026-08-14",
+    "media": "SPN 서울평양뉴스",
+    "summary": "정동영 통일 \"한반도 평화공존은 멈추지 않은 걸음으로 만들어져\" - SPN 서울평양뉴스",
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9ab3BNN0xRNU05Ymh0dHFJY1UyWXRqS0stTlNCZ3h3YXdzT1hXXy1IZUltQnVnT1JoS0dIY2p3ZU14WkdPLUN3eVhaNGZhclVNLTdVOUtvVmNwb3ZSRngyNlU3MFJLS2Z1SXF3?oc=5"
+  },
+  {
+    "date": "2026-08-14",
+    "media": "MBC 뉴스",
+    "summary": "\"김정은 욕해 봐\" 검증 질문까지‥북한 'IT일꾼'들 미국에 원격 취업 - MBC 뉴스",
+    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBkQXVmY0pLUGsyOVFWanRpNHRrbm1GamhCQWIzSHlnUEdYLTNDTkZSSmhqVHAzVnhXVFdqeWJHdF9FSERtSUM0dDNpOTllVEFFaWhNR25GMHlTRHVzaGpMOF9rQlNDN0ZLRENDVWUzRVd4LWFp0gF0QVVfeXFMTjdWam5lZWVRWDFUeF9ONG9Jek9Ia2tOQWhVZ0lYQThoXzh1eFFoVkRDNHBSMGJHZnJFMG1DZlZKVk1ET3RMdGdhVVJ3RW52SzM5SU5qRWY5aFFBWXgwdWJiNW9pY19nU2JMOVM0X21GUFA1aDU?oc=5"
+  },
+  {
+    "date": "2026-08-14",
+    "media": "천지일보",
+    "summary": "통일부, 北 한미UFS 비난 담화 관련 “통상적 대응” - 천지일보",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5qVXZ0MndFRjNyZ2VUZXRWT0FLZm9nQkhuSDYzSk1jMkR5eTVaZExyQkpaR3BaelFSVVU2SEFQeEJ6bXJuZ1JDbG9MSzVxbl9HaWRxRU5TSWRXeWoxeHNDbXJjcnI2aDFISXc?oc=5"
+  },
+  {
+    "date": "2026-08-14",
+    "media": "세계일보",
+    "summary": "파라솔 빌리고 밥 사먹고…‘내국인 관광’ 뜨는 북한 해수욕장 [북*마크] - 세계일보",
+    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE45V3ZUZDN2SXhqSWN5ZmxLOUJOQ0xMblJVWWZLMm5NcnlPTEpPSmxNQ3FhVC1WQ1B6VFlieUQ1SVZaaVg3SkxDZ2pTUW1WU1p5ZE1zRlpVMnHSAVRBVV95cUxOLU0yLTNVdmk1bFIyZXR0UUtheEFKaGxJWWFTdExlU1l4d0pWb21mX0JGYUViNWNaWUhhYXhpb0w3N21aOW53ZmphaGpLRFFEOVpYblU?oc=5"
+  },
+  {
+    "date": "2026-08-14",
+    "media": "법보신문",
+    "summary": "군대식 질서가 지배하는 북한 기원 추적 - 법보신문",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBBaW5sUnNwTW1MVlpRX2JYMHJNaGpkOFdIQXZvN2NIR0pTUDE1bmFndXJVVVFiRXB1ald0UVVzd0Qzc3MzOXpmT3J2NHQ5emFCWUlhdEo5NUJVSTlMcEJ3OTF1RUN3aWd5?oc=5"
+  },
+  {
+    "date": "2026-08-14",
+    "media": "VOA 한국어 홈페이지",
+    "summary": "[뉴스 동서남북] 북한, 휴전선 따라 70km 전술도로… '남부 국경화' - VOA 한국어 홈페이지",
+    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE44S3RPai1vY01OTFZqdEhXWDhXTllMRnFrSjVLVEtIRTRJMXFnajFDQ2JfcXYtNTdfNHd1SGtHNWVHSENLNWc5LUZMSTR2WVdzWFI3Y29taGtHTHMyWlVURHd1b1NldUQ3RmZNWEdpSkkyN0lzR3hpY3A3TjTSAX9BVV95cUxPYmZVZFpQMWN3M01nNURsMjlTQ3dCQXAwUEFKdzRxVERLNUhNWHIyQ3FKdnlxc1YybHVPbkVJa2doTm1venppeXhSTVJqajQweUwyTDdGNlViQ0stYWNOcUhocThHc1lnMllMWDA0bHp6cjg4SW0zY0k4Rk40X0VR?oc=5"
+  },
+  {
+    "date": "2026-08-14",
+    "media": "연합뉴스",
+    "summary": "[북한단신] 주북러시아대사대리, 광복 81주년 기념 연회 개최 - 연합뉴스",
+    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9nZXhBNkktWi1fcTRZVy1yV1hGdVNtQlV2ZzczWDBDZGVvV2xwREJvXzhaanExeTdpTEI2c1A2UThLNWJUTHJWeWtrcVpHU2gtalotZ1E4ZjNINzjSAWBBVV95cUxNYmRBRTBrNVZCMjR6VUdzUGhVMk1iSWNFZEp2WU9PY0gyU2JsdS1kSVJCdVQzdUZpdll2TmNnNS10LURVY1ZQNzN4Z2VNZ1FiSGtrZ0pqTzk2SGhZY0dNbzc?oc=5"
+  },
+  {
+    "date": "2026-08-14",
+    "media": "VOA 한국어 홈페이지",
+    "summary": "북한 외무성...“미한 연합훈련에 대적 입장 명백히 표현할 것” 위협 - VOA 한국어 홈페이지",
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE00SjNqSmJqaTFNeHJ1NTAzaExkMk81Rlo1a2hmNTVwUWFiSkdfbUNTNGwzaXdwLUZfWXREVkZuemtsNkZDbk1KUG85OW9BdVZoQ2d5dm5yOENxMVl0S3FWeGx6bVliWjNZa0l0cFRjU2ZENGtfanfSAXZBVV95cUxNNEozakpiamkxTXhydTUwM2hMZDJPNUZaNWtoZjU1cFFhYkpHX21DUzRsM2l3cC1GX1l0RFZGbnprbDZGQ25NSlBvOTlvQXVWaENneXZucjhDcTFZdEtxVnhsem1ZYlozWWtJdHBUY1NmRDRrX2p3?oc=5"
+  },
+  {
+    "date": "2026-08-14",
+    "media": "연합뉴스",
+    "summary": "9년 전 휘발유 대금 떼인 북한 기업, 러 법원서 5억원 배상판결 - 연합뉴스",
+    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBCWlFWOU9YSUM5OVlJZk5namxrMFlvQlhMTHJndGNvX05FV2xOQzM1YVVCQnFza1RaMll2THJKWWNwOHVqNm5mdFpwNFVKNWliWUpONVFSUU9yZ2FpR2oya9IBYEFVX3lxTFBCWlFWOU9YSUM5OVlJZk5namxrMFlvQlhMTHJndGNvX05FV2xOQzM1YVVCQnFza1RaMll2THJKWWNwOHVqNm5mdFpwNFVKNWliWUpONVFSUU9yZ2FpR2oyaw?oc=5"
+  }
 ]
